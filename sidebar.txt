@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ja:home|Door43 (ja)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[ja:obs|Open Bible Stories (ja)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ja|d43-ja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ja/archive/master.zip|d43-ja.zip]]
+
+**Recent Changes**
+{{changes>ns = ja}}
+
+**Latest Status**
+{{page>en:uwadmin:ja:obs:status}}
+
